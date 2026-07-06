@@ -2,15 +2,11 @@
 
 **Software Engineer | Forward-Deployed Full-Stack Product Engineering & AI Automation**
 
-Building React/Next.js and TypeScript product systems across acquisition, analytics, workflow automation, cloud delivery, and backend-connected operations.
+Building React/Next.js and TypeScript product systems across acquisition, automation, analytics, cloud delivery, and backend-connected workflows.
 
-## Tech's
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,aws,docker,postgres,mongodb,vercel,tailwind,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,mongodb,prisma,aws,docker,vercel,githubactions,git,linux,python,php,wordpress,postman,vite&perline=20" />
 </p>
-
-**AI & Automation:** Claude Code · Codex · OpenAI tooling · OpenRouter · Prompt Engineering · Workflow Automation  
-**Product Systems:** Customer Acquisition · CRM Handoff · Analytics Instrumentation · Lead Workflows · Core Web Vitals  
-**Cloud Delivery:** AWS · Vercel · Docker · CI/CD · Deployment Debugging · Production Releases
 
