@@ -1,6 +1,6 @@
-# Hey Dev!
+# Revenue-facing systems, built for production
 
-I build revenue-facing product systems for messy clients, sales, and operations workflows.
+I build product systems for messy client, sales, and operations workflows.
 
 ## Tech Stack
 
