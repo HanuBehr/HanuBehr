@@ -1,6 +1,6 @@
 # Revenue-facing systems, built for production
 
-I build product systems for messy sales, operations, and client-facing workflows.
+I build full-stack products and internal tools for complex sales, operations, and client-facing workflows.
 
 ## Tech Stack
 
