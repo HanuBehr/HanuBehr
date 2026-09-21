@@ -1,6 +1,7 @@
 # Revenue-facing systems, built for production
 
-I build full-stack products and internal tools for complex sales, operations, and client-facing workflows.
+Software engineer building polished web products with React, Next.js and TypeScript.
+Focused on responsive UI, performance, reusable components and AI-enabled features.
 
 ## Tech Stack
 
