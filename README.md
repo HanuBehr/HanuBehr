@@ -1,7 +1,6 @@
-# Revenue-facing systems, built for production
+# Software engineering for production web applications
 
-Software engineer building polished web products with React, Next.js and TypeScript.
-Focused on responsive UI, performance, reusable components and AI-enabled features.
+Software engineer focused on React, Next.js and TypeScript, with experience across frontend development, backend integrations and AI-enabled applications
 
 ## Tech Stack
 
